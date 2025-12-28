@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Soumya280/Soumya280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Soumya
 
-Here are some ideas to get you started:
+Application & Web Developer  
+Java Backend | ReactJS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I build backend-focused applications and full-stack projects.
+- Currently working on better Frontend Design.
+- Interested in system design, clean code, and learning how things work under the hood.
+
+### Tech Stack
+- Languages: Java, JavaScript
+- Backend: JSP, Servlets, Hibernate, JDBC, Spring Boot
+- Frontend: ReactJS, HTML, CSS
+- Database: MySQL
+- Tools: Git, Maven
+- OS: Windows | 🐧Linux (Arch btw)
+
+I use Arch, so I fix my system as often as I fix my code :)
