@@ -2,7 +2,7 @@
 
 ## I'm Soumya
 
-Application & Web Developer  
+Web Application & Web Developer  
 Java Backend | ReactJS  
 
 - I build backend-focused applications and full-stack projects.
